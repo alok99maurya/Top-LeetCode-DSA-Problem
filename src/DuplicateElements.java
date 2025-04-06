@@ -45,6 +45,7 @@ public class DuplicateElements {
 		duplicate(arr, arr.length);
 		HashSet<Integer>ans = getDuplicateElement(arr);
 		System.out.println(ans);
+                System.out.println("alok_kumar_maurya");
 
 	}
 
